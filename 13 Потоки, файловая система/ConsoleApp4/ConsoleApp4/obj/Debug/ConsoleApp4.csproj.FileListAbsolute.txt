@@ -1,0 +1,14 @@
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\bestb\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\OOP\13 Потоки, файловая система\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
