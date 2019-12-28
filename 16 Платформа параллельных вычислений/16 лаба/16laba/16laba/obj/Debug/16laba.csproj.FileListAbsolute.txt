@@ -1,0 +1,13 @@
+D:\Учеба\ООП\16 лаба\16laba\16laba\bin\Debug\16laba.exe.config
+D:\Учеба\ООП\16 лаба\16laba\16laba\bin\Debug\16laba.exe
+D:\Учеба\ООП\16 лаба\16laba\16laba\bin\Debug\16laba.pdb
+D:\Учеба\ООП\16 лаба\16laba\16laba\obj\Debug\16laba.csprojAssemblyReference.cache
+D:\Учеба\ООП\16 лаба\16laba\16laba\obj\Debug\16laba.exe
+D:\Учеба\ООП\16 лаба\16laba\16laba\obj\Debug\16laba.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\bin\Debug\16laba.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\bin\Debug\16laba.exe
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\bin\Debug\16laba.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\obj\Debug\16laba.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\obj\Debug\16laba.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\obj\Debug\16laba.exe
+C:\Users\bestb\OneDrive\Рабочий стол\16 лаба\16laba\16laba\obj\Debug\16laba.pdb
