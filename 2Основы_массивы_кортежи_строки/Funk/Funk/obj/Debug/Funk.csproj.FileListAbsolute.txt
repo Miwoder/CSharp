@@ -1,0 +1,7 @@
+C:\OOP\2\Funk\Funk\obj\Debug\Funk.csprojAssemblyReference.cache
+C:\OOP\2\Funk\Funk\obj\Debug\Funk.csproj.CoreCompileInputs.cache
+C:\OOP\2\Funk\Funk\bin\Debug\Funk.exe.config
+C:\OOP\2\Funk\Funk\bin\Debug\Funk.exe
+C:\OOP\2\Funk\Funk\bin\Debug\Funk.pdb
+C:\OOP\2\Funk\Funk\obj\Debug\Funk.exe
+C:\OOP\2\Funk\Funk\obj\Debug\Funk.pdb

@@ -1,0 +1,7 @@
+C:\OOP\2\Mass23\Mass23\bin\Debug\Mass23.exe.config
+C:\OOP\2\Mass23\Mass23\bin\Debug\Mass23.exe
+C:\OOP\2\Mass23\Mass23\bin\Debug\Mass23.pdb
+C:\OOP\2\Mass23\Mass23\obj\Debug\Mass23.csprojAssemblyReference.cache
+C:\OOP\2\Mass23\Mass23\obj\Debug\Mass23.csproj.CoreCompileInputs.cache
+C:\OOP\2\Mass23\Mass23\obj\Debug\Mass23.exe
+C:\OOP\2\Mass23\Mass23\obj\Debug\Mass23.pdb
