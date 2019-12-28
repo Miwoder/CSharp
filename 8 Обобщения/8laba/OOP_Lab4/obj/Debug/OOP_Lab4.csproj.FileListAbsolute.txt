@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.pdb
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.exe
+C:\Users\User\Desktop\OOP-Labs-3rd-smstr\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.pdb
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.exe
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.pdb
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe
+C:\Users\User\Desktop\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.pdb
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.pdb
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.exe
+I:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.pdb
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.pdb
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.exe
+D:\Учеба\ООП\4 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.pdb
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.exe
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\bin\Debug\OOPLab4.pdb
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.exe
+D:\Учеба\ООП\8 лаба\OOP_Lab04\OOP_Lab4\obj\Debug\OOPLab4.pdb
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\bin\Debug\OOPLab4.pdb
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\obj\Debug\OOPLab4.exe
+D:\Учеба\ООП\8 лаба\8laba\OOP_Lab4\obj\Debug\OOPLab4.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\bin\Debug\OOPLab4.pdb
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\obj\Debug\OOPLab4.exe
+C:\Users\bestb\OneDrive\Рабочий стол\8laba\OOP_Lab4\obj\Debug\OOPLab4.pdb
+C:\OOP\8\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe.config
+C:\OOP\8\8laba\OOP_Lab4\bin\Debug\OOPLab4.exe
+C:\OOP\8\8laba\OOP_Lab4\bin\Debug\OOPLab4.pdb
+C:\OOP\8\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csprojAssemblyReference.cache
+C:\OOP\8\8laba\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+C:\OOP\8\8laba\OOP_Lab4\obj\Debug\OOPLab4.exe
+C:\OOP\8\8laba\OOP_Lab4\obj\Debug\OOPLab4.pdb
